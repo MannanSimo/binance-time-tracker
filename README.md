@@ -17,5 +17,6 @@ The following steps are required:
     $ python3 setup.py install
 ## How to run
 ---
+    $ git clone https://github.com/MannanSimo/binance-time-tracker
     $ cd binance-time-tracker
     $ python3 main.py
